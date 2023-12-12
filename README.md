@@ -1,15 +1,9 @@
 <!-- ABOUT THE PROJECT -->
-# AzubiChatbot
+# Project 1
 AzubiChatbot is a simple python FAQ chatbot with a Tkinter powered GUI that backed by an AWS RDS database via a Django/DRF based API server.
 
-### Collaborations
-This is a hand-on cloud engineering project delivered by the azubi africa cloud team in 2023. After 6 months of AWS cloud training and front-end development, we got a chance to work on some realife cloud projects. 
-I was able to work with:
- 1. Prince Adama Aryee - [LinkedIn](https://www.linkedin.com/in/prince-adama-aryee)
- 2. Segla Ghislain
- 3. Joseph Nsiah
- 4. Farouk Salihi
- 5. Ogbomo Festus
+### Real-life Scenario
+This is a hand-on cloud engineering project delivered by Emmanuel C. Oghre a cloud engineering student of Azubi africa in 2023. After 6 months of AWS cloud training and front-end development, we got a chance to work on some realife cloud projects. 
 
 ## Project Overview
 #### Technologies
@@ -27,7 +21,7 @@ The Chatbot API server is a Django/DRF based server running on a public EC2 inst
   
 
 ### The Architecture
-<a href="https://github.com/DeXtreme/AzubiChatbot">
+<a href="https://github.com/Emmy-code-dev/ChatBot">
     <img src="architecture.png" alt="Logo" width="auto" height="450">
 </a>
 
